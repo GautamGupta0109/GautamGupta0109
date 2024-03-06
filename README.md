@@ -5,7 +5,7 @@ material from initial concept to final, polished and deliverable stage. I have a
 developing practical abilities, since I believe that learning outside books allows one to better understand oneself.</h3>
 
 
-- 🔭 I’m currently working on **Different Frameworks**
+- 🔭 I’m currently working on **React.js**
 
 - 🌱 I’m currently learning **JavaScript Frameworks**
 
