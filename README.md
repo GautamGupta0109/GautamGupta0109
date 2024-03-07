@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙏🏻, I'm Gautam Gupta</h1>
-<h3 align="center">Passionate Software Developer from India</h3>
+<h3 align="center">Passionate Software Developer</h3>
 <h3>Innovative, deadline-driven and high adaptable characteristics. I have assisted various developers in developing
 material from initial concept to final, polished and deliverable stage. I have always placed a great emphasis on
 developing practical abilities, since I believe that learning outside books allows one to better understand oneself.</h3>
